@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+h1{
+	text-align: center;
+}
+
+.items {
+	
+    width:50px;
+    display:block;
+    float: left;
+}
+.addItem {
+    width:50px;
+    display:block;
+    float: right;
+}
